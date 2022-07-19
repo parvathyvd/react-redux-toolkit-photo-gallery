@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@400;500&display=swap');
+.App{
+  text-align: center;
+}
+
+p{
+  text-align: center;
+}
+
+body{
+  font-family: 'Oswald', sans-serif;
+}
+
+h1{
+  font-size: 48px;
+}
+
+img{
+  object-fit: cover;
+  margin: 10px;
+}
+
+hr{
+  margin:  20px 25%;
+}
+
+.gallery{
+  margin: 0 5%;
+}
+
+button{
+  margin: 20px;
+  background: transparent;
+  padding: 20px;
+  border-width: 1px;
+  border: 1px solid black;
+  font-size: 16px;
+  cursor: pointer;
+}
